@@ -4,6 +4,7 @@ This is just a repository for this matrix template, how I use this template in o
 
 THIS IS NOT MY CODE I JUST KEEP HERE AS CODEBASE, THE DEVELOPER IS LISTED BELLOW.
 
+In a near future this code will be changed for more especific aplications.
 
 ////////////////////////////////
 // Matrix TCL Lite v1.13
